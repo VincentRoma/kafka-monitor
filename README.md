@@ -9,7 +9,6 @@ This is a simple and minimalist Angular Seed which uses bower and npm for depend
 You need [Bower](http://bower.io/) and [NPM](https://www.npmjs.com/) installed
 
 
-
 ```sh
 $ bower install
 $ npm install
